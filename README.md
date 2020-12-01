@@ -15,8 +15,8 @@ The tutorial of learning english. Help non-native speakers (especially for Chine
 
 ## <a id="intro">Intro 入门</a>
 
-- 语法入门: [Simplified English grammar tutorial / 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
-- 音标入门: [Phonetic alphabet](articles/phonetic-alphabet.md)
+- 语法入门: [Simplified English grammar tutorial 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
+- 音标入门: [Phonetic alphabet 音标](articles/phonetic-alphabet.md)
 
 ## <a id="english-grammar">English grammar</a>
 ## <a id="english-pronunciation">English pronunciation</a>
