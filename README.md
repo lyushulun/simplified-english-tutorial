@@ -1,13 +1,28 @@
-# Simplified English tutorial / 简明英语教程
+# Simplified English tutorial  简明英语教程
 
 The tutorial of learning english. Help non-native speakers (especially for Chinese) learn English well.  
 简明英语教程, 帮助非母语者, 尤其是中国人, 学习英语.
 
-## Intro / 入门
+在本教程中, 主要包括 `入门学习` 模块和 `持续提升` 模块:
+- `入门学习`
+    - [Intro 入门](#intro)
+    - [English grammar](#english-grammar)
+    - [English pronunciation](#english-pronunciation)
+- `持续提升` ([John 的学习笔记](#johns-notebook))
+    - [新概念英语学习笔记系列](#nce-notes)
+    - [每日精读系列](#reading-comprehension)
+    - [每日词汇积累系列](#vocabulary-building)
+
+## <a id="intro">Intro 入门</a>
 
 - 语法入门: [Simplified English grammar tutorial / 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
-    - ![辅助学习视频]()
-- 音标入门: 
-    - ![辅助学习视频]()
+- 音标入门: [Phonetic alphabet](articles/phonetic-alphabet.md)
 
-## English grammar
+## <a id="english-grammar">English grammar</a>
+## <a id="english-pronunciation">English pronunciation</a>
+
+## <a id="johns-notebook">John's notebooks John 的学习笔记</a>
+
+### <a id="nce-notes">新概念英语学习笔记系列</a>
+### <a id="reading-comprehension">每日精读系列</a>
+### <a id="vocabulary-building">每日词汇积累系列</a>
