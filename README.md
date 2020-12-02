@@ -20,7 +20,7 @@
 ### <a id="english-grammar">English grammar</a>
 ### <a id="english-pronunciation">English pronunciation</a>
 
-## <a id="johns-notebook">John's notebooks John 的学习笔记</a>
+## <a id="johns-notebook">持续提升: John's notebooks John 的学习笔记</a>
 
 ### <a id="nce-notes">新概念英语学习笔记系列</a>
 ### <a id="reading-comprehension">每日精读系列</a>
