@@ -17,8 +17,8 @@
 - 语法入门: [Simplified English grammar tutorial 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
 - 音标入门: [Phonetic alphabet 音标](articles/phonetic-alphabet.md)
 
-### <a id="english-grammar">English grammar</a>
-### <a id="english-pronunciation">English pronunciation</a>
+### <a id="english-grammar">English grammar 英语语法</a>
+### <a id="english-pronunciation">English pronunciation 英语发音</a>
 
 ## <a id="johns-notebook">持续提升: John's notebooks John 的学习笔记</a>
 
