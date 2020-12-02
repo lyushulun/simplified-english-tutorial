@@ -1,8 +1,5 @@
 # Simplified English tutorial  简明英语教程
 
-The tutorial of learning english. Help non-native speakers (especially for Chinese) learn English well.  
-简明英语教程, 帮助非母语者, 尤其是中国人, 学习英语.
-
 在本教程中, 主要包括 `入门学习` 模块和 `持续提升` 模块:
 - `入门学习`
     - [Intro 入门](#intro)
