@@ -14,14 +14,27 @@
 
 ### <a id="essentials">必学知识</a>
 
-- 语法入门: [Simplified English grammar tutorial 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
-- 音标入门: [Phonetic alphabet 音标](articles/phonetic-alphabet.md)
+- 语法入门: (未完成) [Simplified English grammar tutorial 英语语法简明教程](articles/simplified-english-grammar-tutorial.md)
+- 音标入门: (未完成) [Phonetic alphabet 音标](articles/phonetic-alphabet.md)
 
 ### <a id="english-grammar">English grammar 英语语法</a>
+
+(未完成) 
+
 ### <a id="english-pronunciation">English pronunciation 英语发音</a>
+
+(未完成) 
 
 ## <a id="johns-notebook">持续提升: John's notebooks John 的学习笔记</a>
 
 ### <a id="nce-notes">新概念英语学习笔记系列</a>
+
+(未完成) 
+
 ### <a id="reading-comprehension">每日精读系列</a>
+
+(未完成) 
+
 ### <a id="vocabulary-building">每日词汇积累系列</a>
+
+(未完成) 
